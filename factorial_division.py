@@ -9,10 +9,10 @@ def factorial_division(a: int, b: int):
     return factorial_number(a) / factorial_number(b)
 
 
-def main_input():
+def main_input_output():
     first_num = int(input())
     second_num = int(input())
     result = factorial_division(first_num, second_num)
     print(f"{result:.2f}")
 
-main_input()
+main_input_output()
