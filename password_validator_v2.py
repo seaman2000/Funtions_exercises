@@ -9,6 +9,7 @@ def has_only_letters_and_digits(password):
 def has_at_least_two_digits(password):
     return sum(char.isdigit() for char in password) >= 2
 
+
 def is_valid(password):
     valid = True
 
