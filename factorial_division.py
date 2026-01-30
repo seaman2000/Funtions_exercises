@@ -1,4 +1,4 @@
-def factorial(number: int):
+def factorial_number(number: int):
     result = 1
     for digit in range(1, number + 1):
         result *= digit
@@ -6,7 +6,7 @@ def factorial(number: int):
 
 
 def factorial_division(a: int, b: int):
-    return factorial(a) / factorial(b)
+    return factorial_number(a) / factorial_number(b)
 
 
 def main_input():
