@@ -24,7 +24,7 @@ This repository contains solutions to Python function exercises focused on impro
 - Problem-solving and logical thinking
 - Clean and readable code
 
-## Tasks Included
+## Tasks Included  📁
 
 #### ☑️ 1. [*Smallest of Three Numbers*](smallest_of_three_numbers.py)
 #### ☑️ 2. [*Add and Subtract*](add_and_subtract.py)
