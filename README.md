@@ -26,15 +26,16 @@ This repository contains solutions to Python function exercises focused on impro
 
 ## Tasks Included
 
-### ☑️ 1. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
-### ☑️ 2. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
-### ☑️ 3. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
-### ☑️ 4. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
-### ☑️ 5. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
-### ☑️ 6. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
-### ☑️ 7. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
-### ☑️ 8. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
-### ☑️ 9. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
-### ☑️ 10. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
-### ☑️ 11. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
-### ☑️ 12. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+#### ☑️ 1. [*Smallest of Three Numbers*](smallest_of_three_numbers.py)
+#### ☑️ 2. [*Add and Subtract*](add_and_subtract.py)
+#### ☑️ 3. [*Characters in Range*](characters_in_range.py)
+#### ☑️ 4. [*Odd and Even Sum*](odd_and_even_sum.py)
+#### ☑️ 5. [*Even Numbers*](even_numbers.py)
+#### ☑️ 6. [*Sort*](sort.py)
+#### ☑️ 7. [*Min Max and Sum*](min_max_and_sum.py)
+#### ☑️ 8. [*Palindrome Integers*](palindrome_integers.py)
+#### ☑️ 9. [*Password Validator*](password_validator.py)
+- 💡 **Bonus Challenge:** **[Password Validator V2](password_validator_v2.py)**
+#### ☑️ 10. [*Perfect Number*](perfect_number.py)
+#### ☑️ 11. 🔥[*Loading Bar*](loading_bar.py)
+#### ☑️ 12. 🔥[*Factorial Division*](factorial_division.py)
