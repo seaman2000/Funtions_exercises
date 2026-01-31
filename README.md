@@ -24,3 +24,17 @@ This repository contains solutions to Python function exercises focused on impro
 - Problem-solving and logical thinking
 - Clean and readable code
 
+## Tasks Included
+
+### ☑️ 1. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+### ☑️ 2. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+### ☑️ 3. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+### ☑️ 4. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+### ☑️ 5. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+### ☑️ 6. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+### ☑️ 7. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+### ☑️ 8. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+### ☑️ 9. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+### ☑️ 10. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+### ☑️ 11. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
+### ☑️ 12. [*smallets_of_three_numbers*](smallest_of_three_numbers.py)
