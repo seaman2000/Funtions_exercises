@@ -35,7 +35,7 @@ This repository contains solutions to Python function exercises focused on impro
 #### ☑️ 7. [*Min Max and Sum*](min_max_and_sum.py)
 #### ☑️ 8. [*Palindrome Integers*](palindrome_integers.py)
 #### ☑️ 9. [*Password Validator*](password_validator.py)
-- 💡 **Bonus Challenge:** **[Password Validator V2](password_validator_v2.py)**
+- 💡 *Bonus Challenge:* [***Password Validator V2***](password_validator_v2.py)
 #### ☑️ 10. [*Perfect Number*](perfect_number.py)
-#### ☑️ 11. 🔥[*Loading Bar*](loading_bar.py)
-#### ☑️ 12. 🔥[*Factorial Division*](factorial_division.py)
+#### ☑️ 11. 🔥 [*Loading Bar*](loading_bar.py)
+#### ☑️ 12. 🔥 [*Factorial Division*](factorial_division.py)
